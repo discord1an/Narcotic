@@ -1,0 +1,2 @@
+script_key=Narcotic.luarmor.KEY_HERE
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9691e15086e63e28b1cce96b24d3ca93.lua"))()
